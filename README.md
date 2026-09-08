@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio
+
+A personal portfolio website built with [Next.js](https://nextjs.org/), featuring Home, Resume, Services, Work, and Contact pages, animated transitions with Framer Motion, and UI components from Radix UI and Tailwind CSS.
 
 ## Getting Started
 
